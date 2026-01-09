@@ -113,7 +113,8 @@ Since the project was built using AI platforms, traditional frontend and backend
 
 
 The video covers:
-
+     https://drive.google.com/file/d/1ypepyOpBGZCjbXPPaNMabG20tVLDAkIm/view?usp=drive_link
+     
 Project motivation
 
 Overall system design
