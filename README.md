@@ -110,10 +110,9 @@ Application flow explanation
 Since the project was built using AI platforms, traditional frontend and backend source code files are not included. This follows the assignment’s encouragement to use modern AI tools to reduce manual development effort.
 
 10. Project Explanation Video
-
+https://drive.google.com/file/d/1ypepyOpBGZCjbXPPaNMabG20tVLDAkIm/view?usp=drive_link
 
 The video covers:
-     https://drive.google.com/file/d/1ypepyOpBGZCjbXPPaNMabG20tVLDAkIm/view?usp=drive_link
      
 Project motivation
 
